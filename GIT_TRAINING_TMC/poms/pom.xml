@@ -12,6 +12,7 @@
     <module>code/beans</module>
     <module>code/routines</module>
     <module>jobs/process/getids_0.1</module>
+    <module>jobs/process/mainjob_0.1</module>
     <module>jobs/process/movie_rental_0.1</module>
     <module>jobs/process/to_delete_0.1</module>
     <module>jobs/routes/consumefile_0.1</module>
