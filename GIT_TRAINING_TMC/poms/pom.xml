@@ -18,6 +18,7 @@
     <module>jobs/process/firsttask_0.1</module>
     <module>jobs/process/getids_0.1</module>
     <module>jobs/process/job1_0.1</module>
+    <module>jobs/process/job3_0.1</module>
     <module>jobs/process/mainjob_0.1</module>
     <module>jobs/process/movie_rental_0.1</module>
     <module>jobs/process/secondtask_0.1</module>
