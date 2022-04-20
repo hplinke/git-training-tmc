@@ -13,4 +13,27 @@
     "version" : "Latest",
     "type" : "property"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_djfDQDRAEeyptPGBIdpl7g",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5YkGkQCzEeqVj6QJJXVNMA",
+    "version" : "Latest",
+    "type" : "pattern"
+  }, {
+    "id" : "_auupkFdXEee1sebQsCSNeA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_s5K3QIQ2EeyTKoMiKRpTjQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_s5K3QIQ2EeyTKoMiKRpTjQ - CRM_CUST",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
